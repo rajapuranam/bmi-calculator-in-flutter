@@ -1,5 +1,5 @@
 # BMI Calculator
 
 
-![](./images/screenshots/ss1.jpeg)
-![](./images/screenshots/ss2.jpeg)
+![](./images/screenshots/ss1.jpg)
+![](./images/screenshots/ss2.jpg)
